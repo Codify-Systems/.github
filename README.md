@@ -9,6 +9,7 @@ Nossa equipe seguiu as etapas do processo de software, como fazer o documento vi
 - Banco de dados próprio para o sistema da academia;
 - Aplicação Desktop utilizando Visual Studio e .NET Core;
 - Consumo de API's REST para obter endereço através do CEP e obter código de barras.
+- Site da academia desenvolvido com front-end e PHP como back-end
 
 <!-- ## Repositórios -->
 <!--
